@@ -48,19 +48,13 @@ section {
 	background-color: #ecf9f2;
   border: 1px solid black;
   height: 100%;
-  padding-top: 60px;
-  padding-bottom: 10px;
-  padding-right: 10px;
-  padding-left: 10px;
-
-
+  padding: 10px;
 }
 
 
 .row {
   width: 100%;
   float: right;
-  border: solid 1px red;
 }
 
 

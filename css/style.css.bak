@@ -60,6 +60,7 @@ section {
 .row {
   width: 100%;
   float: right;
+  border: solid 1px red;
 }
 
 
